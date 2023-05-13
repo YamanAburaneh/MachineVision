@@ -1,5 +1,5 @@
 # Machine Vision
-Attched to this repository is a machine learning code for:
+Attched to this repository is python Machine Vision code for:
 - Coin Counting
-- Facial Recongnition using Haar Cascade
-- 
+- Face Blur & Face Edge Detection
+- Object Detection usig Morphological Image Processing
